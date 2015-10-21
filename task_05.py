@@ -7,7 +7,7 @@ def flip_keys(to_flip):
     """
     Args:
         to_flip (list): nested sequence.
-        
+
     Returns:
         to_flip (list): reversed list.
 
