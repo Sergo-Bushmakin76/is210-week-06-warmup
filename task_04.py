@@ -10,6 +10,10 @@ def process_data(data):
 
     Returns:
         tuple: Sum and average of data
+
+    Examples:
+        >>> process_data([1, 2, 3])
+        (6, 2.0)
     """
 
     datapoint = 0
